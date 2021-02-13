@@ -33,3 +33,9 @@ This is an attempt to list interesting speaker recognition research works.
 
 # Datasets
 1. Fan, Yue, et al. "CN-CELEB: a challenging Chinese speaker recognition dataset." ICASSP 2020-2020 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). IEEE, 2020. (https://ieeexplore.ieee.org/abstract/document/9054017)
+
+# Theses
+1. Villalba, J. Advances on speaker recognition in non collaborative environments. Diss. Ph. D. dissertation, University of Zaragoza, 2014.
+
+# Books
+1. Mak, Man-Wai, and Jen-Tzung Chien. Machine learning for speaker recognition. Cambridge University Press, 2020. (http://www.eie.polyu.edu.hk/~mwmak/papers/spkver-book_toc.pdf)
