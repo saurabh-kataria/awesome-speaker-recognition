@@ -29,6 +29,8 @@ This is an attempt to list interesting speaker recognition research works.
 
 # Joint learning
 
+# Multi-modal
+
 # System Descriptions
 
 # Datasets
@@ -39,3 +41,5 @@ This is an attempt to list interesting speaker recognition research works.
 
 # Books
 1. Mak, Man-Wai, and Jen-Tzung Chien. Machine learning for speaker recognition. Cambridge University Press, 2020. (http://www.eie.polyu.edu.hk/~mwmak/papers/spkver-book_toc.pdf)
+
+# Softwares
