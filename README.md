@@ -14,6 +14,7 @@ This is an attempt to list interesting speaker recognition research works.
 
 # Back-end
 1. Graph Attention Networks for Speaker Verification, Jung et. al 2020 (https://arxiv.org/abs/2010.11543)
+2. Ferrer, Luciana, Mitchell McLaren, and Niko Brummer. "A Speaker Verification Backend with Robust Performance across Conditions." arXiv preprint arXiv:2102.01760 (2021). (https://arxiv.org/abs/2102.01760)
 
 # Pre-training
 1. Deep Speaker: an End-to-End Neural Speaker Embedding System, Li et. al 2017 (https://arxiv.org/abs/1705.02304)
@@ -31,3 +32,4 @@ This is an attempt to list interesting speaker recognition research works.
 # System Descriptions
 
 # Datasets
+1. Fan, Yue, et al. "CN-CELEB: a challenging Chinese speaker recognition dataset." ICASSP 2020-2020 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). IEEE, 2020. (https://ieeexplore.ieee.org/abstract/document/9054017)
