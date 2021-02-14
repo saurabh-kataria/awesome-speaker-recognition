@@ -16,6 +16,8 @@ This is an attempt to list interesting speaker recognition research works.
 1. Graph Attention Networks for Speaker Verification, Jung et. al 2020 (https://arxiv.org/abs/2010.11543)
 2. Ferrer, Luciana, Mitchell McLaren, and Niko Brummer. "A Speaker Verification Backend with Robust Performance across Conditions." arXiv preprint arXiv:2102.01760 (2021). (https://arxiv.org/abs/2102.01760)
 
+# Towards end-to-end
+
 # Pre-training
 1. Deep Speaker: an End-to-End Neural Speaker Embedding System, Li et. al 2017 (https://arxiv.org/abs/1705.02304)
 2. Learning Speaker Embedding with Momentum Contrast, Ding et. al 2020 (https://arxiv.org/abs/2001.01986)
