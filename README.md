@@ -5,6 +5,9 @@ This is an attempt to list interesting speaker recognition research works.
 1. Speaker Verification Using Adapted Gaussian Mixture Models, Reynolds et. al 2000 (http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.117.338&rep=rep1&type=pdf)
 2. Front-end factor analysis for speaker verification, Dehak et. al 2010 (https://ieeexplore.ieee.org/document/5545402)
 
+# Features
+1. 
+
 # Front-end
 1. Speaker recognition from raw waveform with sincnet, Ravanelli et. al 2018 (https://arxiv.org/abs/1808.00158)
 
@@ -40,6 +43,7 @@ This is an attempt to list interesting speaker recognition research works.
 
 # Theses
 1. Villalba, J. Advances on speaker recognition in non collaborative environments. Diss. Ph. D. dissertation, University of Zaragoza, 2014.
+2. Brummer, Niko. Measuring, refining and calibrating speaker and language information extracted from speech. Diss. Stellenbosch: University of Stellenbosch, 2010.
 
 # Books
 1. Mak, Man-Wai, and Jen-Tzung Chien. Machine learning for speaker recognition. Cambridge University Press, 2020. (http://www.eie.polyu.edu.hk/~mwmak/papers/spkver-book_toc.pdf)
