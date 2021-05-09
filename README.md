@@ -21,6 +21,7 @@ This is an attempt to list interesting speaker recognition research works.
 2. Ferrer, Luciana, Mitchell McLaren, and Niko Brummer. "A Speaker Verification Backend with Robust Performance across Conditions." arXiv preprint arXiv:2102.01760 (2021). (https://arxiv.org/abs/2102.01760)
 
 # End-to-end related
+1. Garcia-Romero, Daniel, Gregory Sell, and Alan McCree. "Magneto: X-vector magnitude estimation network plus offset for improved speaker recognition." Proc. Odyssey 2020 The Speaker and Language Recognition Workshop. 2020. (https://www.isca-speech.org/archive/Odyssey_2020/pdfs/65.pdf)
 
 # Pre-training
 1. Deep Speaker: an End-to-End Neural Speaker Embedding System, Li et. al 2017 (https://arxiv.org/abs/1705.02304)
