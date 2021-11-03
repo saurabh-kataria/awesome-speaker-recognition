@@ -45,6 +45,7 @@ This is an attempt to list interesting speaker recognition research works.
 
 # Multi-modal
 1. A Study of Multimodal Person Verification Using Audio-Visual-Thermal Data, Abdrakhmanova et. al 2021 (https://arxiv.org/abs/2110.12136)
+2. Face-Mic: inferring live speech and speaker identity via subtle facial dynamics captured by AR/VR motion sensors, Shi et al. 2021 (https://dl.acm.org/doi/abs/10.1145/3447993.3483272)
 
 # System Descriptions
 1. Beijing ZKJ-NPU Speaker Verification System for VoxCeleb Speaker Recognition Challenge 2021, Zhang et al., 2021 (https://arxiv.org/abs/2109.03568)
