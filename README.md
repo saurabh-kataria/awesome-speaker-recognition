@@ -1,5 +1,7 @@
 # awesome-speaker-recognition
-This is an attempt to list interesting speaker recognition research works.
+This is an attempt to list interesting speaker recognition/identification/verification research works.
+
+# Review/survey papers
 
 # Pre-Deep learning
 1. Speaker Verification Using Adapted Gaussian Mixture Models, Reynolds et. al 2000 (http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.117.338&rep=rep1&type=pdf)
@@ -47,6 +49,9 @@ This is an attempt to list interesting speaker recognition research works.
 1. A Study of Multimodal Person Verification Using Audio-Visual-Thermal Data, Abdrakhmanova et. al 2021 (https://arxiv.org/abs/2110.12136)
 2. Face-Mic: inferring live speech and speaker identity via subtle facial dynamics captured by AR/VR motion sensors, Shi et al. 2021 (https://dl.acm.org/doi/abs/10.1145/3447993.3483272)
 
+# Metrics
+1. The bosaris toolkit: Theory, algorithms and code for surviving the new dcf, Brummer et al., 2013 (https://arxiv.org/abs/1304.2865)
+
 # System Descriptions
 1. Beijing ZKJ-NPU Speaker Verification System for VoxCeleb Speaker Recognition Challenge 2021, Zhang et al., 2021 (https://arxiv.org/abs/2109.03568)
 
@@ -66,3 +71,4 @@ This is an attempt to list interesting speaker recognition research works.
 1. Hyperion, Villalba et al., 2019 (https://github.com/jsalt2019-diadet/hyperion/tree/14a11436d62f3c15cd9b1f70bcce3eafbea2f753)
 2. SpeechBrain, Ravanelli et al., 2021 (https://github.com/speechbrain/speechbrain)
 3. Angular Prototypical Loss, Chung et al. 2020 (https://arxiv.org/abs/2003.11982)
+4. BOSARIS, multiple versions, (https://github.com/bsxfan/PYLLR, https://projets-lium.univ-lemans.fr/sidekit/api/bosaris/index.html, https://gitlab.eurecom.fr/nautsch/pybosaris)
