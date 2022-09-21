@@ -6,6 +6,7 @@ This is an attempt to list interesting speaker recognition/identification/verifi
 # Pre-Deep learning
 1. Speaker Verification Using Adapted Gaussian Mixture Models, Reynolds et. al 2000 (http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.117.338&rep=rep1&type=pdf)
 2. Front-end factor analysis for speaker verification, Dehak et. al 2010 (https://ieeexplore.ieee.org/document/5545402)
+3. Channel robust speaker verification via feature mapping, Reynolds 2003, ICASSP (https://ieeexplore.ieee.org/abstract/document/1202292/)
 
 # Speech features
 1. Multi-Channel Speaker Verification for Single and Multi-talker Speech, Kataria et. al 2021 (https://arxiv.org/abs/2010.12692)
@@ -16,6 +17,7 @@ This is an attempt to list interesting speaker recognition/identification/verifi
 # Back-end
 1. Graph Attention Networks for Speaker Verification, Jung et. al 2020 (https://arxiv.org/abs/2010.11543)
 2. Ferrer, Luciana, Mitchell McLaren, and Niko Brummer. "A Speaker Verification Backend with Robust Performance across Conditions." arXiv preprint arXiv:2102.01760 (2021). (https://arxiv.org/abs/2102.01760)
+3. Scoring of Large-Margin Embeddings for Speaker Verification: Cosine or PLDA?, Wang et. al 2022, Interspeech 2022 (https://www.isca-speech.org/archive/interspeech_2022/wang22r_interspeech.html)
 
 # Architectures
 1. Ding, Shaojin, et al. "Autospeech: Neural architecture search for speaker recognition, Ding et. al 2020 (https://arxiv.org/abs/2005.03215)
