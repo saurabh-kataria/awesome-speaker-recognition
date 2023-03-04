@@ -21,6 +21,7 @@ This is an attempt to list interesting speaker recognition/identification/verifi
 
 # Architectures
 1. Ding, Shaojin, et al. "Autospeech: Neural architecture search for speaker recognition, Ding et. al 2020 (https://arxiv.org/abs/2005.03215)
+2. "Pushing the limits of raw waveform speaker recognition", Jee-weon Jung et. al 2022 (https://arxiv.org/abs/2203.08488)
 
 # Pooling
 1. Exploring the encoding layer and loss function in end-to-end speaker and language recognition system, Cai et. al 2018 (https://arxiv.org/abs/1804.05160)
